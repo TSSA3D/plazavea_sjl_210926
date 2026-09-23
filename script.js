@@ -388,7 +388,7 @@ const grid =
     );
 
 grid.position.y =
-    -1;
+    -2;
 
 scene.add(
     grid
@@ -405,7 +405,7 @@ const axes =
     );
 
 axes.position.y =
-    -1;
+    -2;
 
 scene.add(
     axes
